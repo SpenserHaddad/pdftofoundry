@@ -29,6 +29,5 @@ jobs:
           allowUpdates: false
           draft: false
           prerelease: false
-          token: ${{ secrets.GITHUB_TOKEN }}
           artifacts: "./pdftofoundry/module.json,./pdftofoundry.zip"
           tag: ${{ env.systemVersion }}
