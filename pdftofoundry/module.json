@@ -2,7 +2,7 @@
     "id": "pdftofoundry",
     "title": "PDF to Foundry Importer",
     "description": "",
-    "version": "5.1.0",
+    "version": "5.1.1",
     "authors": [
         {
             "name": "fryguy",
@@ -24,7 +24,7 @@
     "compatibility": {
         "minimum": "13",
         "verified": "13.351",
-        "maximum": "13"
+        "maximum": "14"
     },
     "relationships": {
         "systems": [
@@ -44,9 +44,9 @@
     "packs": [],
     "languages": [],
     "socket": true,
-    "url": "https://github.com/fryguy1013/pdftofoundry/",
+    "url": "https://github.com/SpenserHaddad/pdftofoundry/",
     "bugs": "https://github.com/fryguy1013/pdftofoundry/issues",
-    "changelog": "https://github.com/fryguy1013/pdftofoundry/blob/release/CHANGELOG.md",
-    "manifest": "https://github.com/fryguy1013/pdftofoundry/releases/latest/download/module.json",
-    "download": "https://github.com/fryguy1013/pdftofoundry/releases/latest/download/pdftofoundry.zip"
+    "changelog": "https://github.com/SpenserHaddad/pdftofoundry/blob/release/CHANGELOG.md",
+    "manifest": "https://github.com/SpenserHaddad/pdftofoundry/edit/latest/download/module.json",
+    "download": "https://github.com/SpenserHaddad/pdftofoundry/releases/latest/download/pdftofoundry.zip"
 }
